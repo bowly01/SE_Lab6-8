@@ -8,3 +8,5 @@ import java.util.UUID;
 public interface MemberRepository extends JpaRepository<Member, UUID> {
     Member findByUsername(String username);
 }
+//putita paiboontanasombut
+//6410451245
